@@ -1,7 +1,7 @@
 body {
   margin: 0;
   height: 100vh; 
-  background-image: url('bday-images/background.jpg');
+  
   background-size: cover; 
   background-position: center; 
   background-repeat: no-repeat;  
@@ -289,4 +289,5 @@ body {
 /* garlands a bit up */
 .garlands{ top:-46px; }
 .garland.g1{ top:-6px;  transform:translateX(-50%) rotate(-6deg); }
+
 .garland.g2{ top:12px;  transform:translateX(-50%) rotate(6deg); }
